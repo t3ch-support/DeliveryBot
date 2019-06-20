@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/sonar_sensor.dir/src/main.cpp.o  -o ../bin/sonar_sensor -rdynamic -lpigpio -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/imu_reader.dir/src/Example_Data_Raw.cpp.o CMakeFiles/imu_reader.dir/src/RPi_BNO055.cpp.o  -o ../bin/imu_reader -rdynamic -lpigpio -lpthread 

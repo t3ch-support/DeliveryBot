@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/delivery/Behaviors/Hardware/MotorControl/src/main.cpp
+iostream
+-
+pigpio.h
+-
+unistd.h
+-
+ctime
+-
+chrono
+-
+
